@@ -1,4 +1,4 @@
-# CS583---Deep-Learning
+# CS583-Deep-Learning
 
 **Introduction**
 
