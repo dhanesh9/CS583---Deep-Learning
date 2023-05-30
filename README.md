@@ -12,7 +12,7 @@ Python 3
 TensorFlow with Keras
 Jupyter
 You can install Python 3 through your package manager, and TensorFlow, Keras, and Jupyter can be installed using Python's package management system. Here's an example command to install them using pip:
-        pip install tensorflow keras jupyter
+"pip install tensorflow keras jupyter"
         
 **Relevant Sources**
 
